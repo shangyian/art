@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yian shang</title>
+    <description>i have a project list that i'm slowly working through</description>
+    <link>http://testofti.me/</link>
+    <atom:link href="http://testofti.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 30 Sep 2016 09:41:56 +0200</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2016 09:41:56 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 27 Sep 2016 15:40:45 +0200</pubDate>
+        <link>http://testofti.me/jekyll/update/2016/09/27/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://testofti.me/jekyll/update/2016/09/27/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>oslo - various</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/art/athens-oslo/oslo-folk-museum.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oslo is green. Oslo is expensive. It’s the land of $20 open-face sandwiches, lush, expansive
+natural spaces, and depressing statues of unhappy women.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;materials: ink pen&lt;/i&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jun 2016 11:22:56 +0200</pubDate>
+        <link>http://testofti.me/art/2016/06/03/oslo-folk-museum.html</link>
+        <guid isPermaLink="true">http://testofti.me/art/2016/06/03/oslo-folk-museum.html</guid>
+        
+        
+        <category>art</category>
+        
+      </item>
+    
+      <item>
+        <title>san francisco transit speed map</title>
+        <description>&lt;p&gt;This MUNI speed map is based on several weeks of GPS bus data curated from Nextbus. Click on a transit line below to see its speed-weighted route map and hover for its speed at that point. The current vehicles for the selected route(s) are also displayed. Built with Flask and jQuery.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jun 2016 11:22:56 +0200</pubDate>
+        <link>http://testofti.me/jekyll/update/2016/06/03/sf-muni-speed.html</link>
+        <guid isPermaLink="true">http://testofti.me/jekyll/update/2016/06/03/sf-muni-speed.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>berlin - victory column</title>
+        <description>&lt;p&gt;Victoria seems determined to fly away…&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;materials: ink pen, willpower in cold weather&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/art/berlin/berlin-victory-column.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jun 2016 11:22:56 +0200</pubDate>
+        <link>http://testofti.me/art/2016/06/03/berlin-victory-col.html</link>
+        <guid isPermaLink="true">http://testofti.me/art/2016/06/03/berlin-victory-col.html</guid>
+        
+        
+        <category>art</category>
+        
+      </item>
+    
+      <item>
+        <title>berlin - nikolaikirche</title>
+        <description>&lt;p&gt;Everyone who spoke to me that day was a tourist. They were mostly looking for
+directions, and I felt obliged to provide some, despite being directionless and
+confused.&lt;/p&gt;
+
+&lt;p&gt;Someday I will have enough money to commission a building that looks &lt;i&gt;exactly&lt;/i&gt;
+like this.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;materials: ink pen, ability to speak to tourists in freezing weather&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/art/berlin/berlin-nikolaikirche.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jun 2016 11:22:56 +0200</pubDate>
+        <link>http://testofti.me/art/2016/06/03/berlin-nikolaikirche.html</link>
+        <guid isPermaLink="true">http://testofti.me/art/2016/06/03/berlin-nikolaikirche.html</guid>
+        
+        
+        <category>art</category>
+        
+      </item>
+    
+      <item>
+        <title>berlin - new identity</title>
+        <description>&lt;p&gt;I got tired of fielding questions about Trump…&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;materials: ink pen, pencil for shading&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/art/berlin/new-id.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jun 2016 11:22:56 +0200</pubDate>
+        <link>http://testofti.me/art/2016/06/03/berlin-new-id.html</link>
+        <guid isPermaLink="true">http://testofti.me/art/2016/06/03/berlin-new-id.html</guid>
+        
+        
+        <category>art</category>
+        
+      </item>
+    
+      <item>
+        <title>berlin - mysterious blimp</title>
+        <description>&lt;p&gt;A few weekends ago, the Ringbahn disintegrated into a fragmented mess, so I took a
+long walk around town. Somewhere along the way (smartphone snooping puts me not far
+from Viktoriapark), I came across this abandoned zeppelin/blimp/spaceship thing in a
+tiny park. A more adventurous soul would’ve crawled right into the middle of the
+spaceship, but alas, my space exploration days are behind me.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;materials: tombow brush pens, aquarelle pencil, best eraser ever from grocery store&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/art/berlin/blimpspaceshipberlin.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jun 2016 11:22:56 +0200</pubDate>
+        <link>http://testofti.me/art/2016/06/03/berlin-blimp.html</link>
+        <guid isPermaLink="true">http://testofti.me/art/2016/06/03/berlin-blimp.html</guid>
+        
+        
+        <category>art</category>
+        
+      </item>
+    
+      <item>
+        <title>athens - food</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/art/athens-oslo/athens-food.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In Athens, I had daily dose of &lt;i&gt;spanokopita&lt;/i&gt; and &lt;i&gt;frappe&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;We took a short day-trip to the island of Aegina and right before it was time
+for our return to Athens, I decided I absolutely had to have a gyro. If it weren’t for a
+slight snafu in the ship’s schedule, we would’ve missed the last boat off the
+island - all for my insatiable hunger!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jun 2016 11:22:56 +0200</pubDate>
+        <link>http://testofti.me/art/2016/06/03/athens-food-details.html</link>
+        <guid isPermaLink="true">http://testofti.me/art/2016/06/03/athens-food-details.html</guid>
+        
+        
+        <category>art</category>
+        
+      </item>
+    
+      <item>
+        <title>about</title>
+        <description>&lt;p&gt;Born in the capital of Jiangsu province, raised in the Bay Area (generation 1.75?), and currently working in San Francisco. I like to build visualizations of interesting data. I also enjoy drawing, learning new languages, and minimalist cooking.&lt;/p&gt;
+
+&lt;p&gt;生在江苏，长在湾区，算是1.75代移民吧。我喜欢画画、学语言、简易烹饪和比较有趣的数据可视化。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jun 2016 11:13:56 +0200</pubDate>
+        <link>http://testofti.me/about/me/2016/06/03/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://testofti.me/about/me/2016/06/03/welcome-to-jekyll.html</guid>
+        
+        
+        <category>about</category>
+        
+        <category>me</category>
+        
+      </item>
+    
+  </channel>
+</rss>
