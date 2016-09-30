@@ -1,0 +1,10 @@
+
+<div class="list-gallery">
+    {% capture path %}art/{{ include.gallery }}{% endcapture %}
+    {% loopdir path:path match:"*.md" sort:"ordering" %}
+
+            <a href="/{{ item.fullname }}.html" style="margin:2px; display:inline-block;overflow-x:hidden;overflow-y:hidden">
+                <img alt="{{ item.title }}" src="{{ site.asset_prefix }}/{{ item.fullname }}~small.jpg" style="" title="{{ item.title }}" class="gallery"/>
+            </a>
+    {% endloopdir %}
+</div>
